@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Bhavika Potdar](https://github.com/bhavi12)
+- Place: New Delhi, Delhi, India
+- Bio: Software Developer, enthusiastic about learning new tech stack
+- GitHub: [bhavi12](https://github.com/bhavi12)
